@@ -2,6 +2,10 @@
 
 ## Important Note:
 This GUI is a general-purpose tool for predicting and forecasting Chlorophyll-a (Chl-a) concentrations. **Please note that this tool was NOT used to generate the results for our study**, although it contains the same models and is intended for general application.
+<p align="center">
+  <img src="Test.png" alt="Test Stage" width="400" height="400">
+  <img src="Forecast.png" alt="Forecast Stage" width="400" height="400">
+</p>
 
 ## General Information:
 This tool provides a selection of univariate time series models to predict and forecast Chl-a concentrations. The included models are:
