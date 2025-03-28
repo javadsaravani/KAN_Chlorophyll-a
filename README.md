@@ -1,6 +1,10 @@
 # Chlorophyll-a (Chl-a) Prediction and Forecasting GUI
 
 ## Important Note:
+This repository contains the data and code for the following research paper:  
+Predicting chlorophyll-a concentrations in the world's largest lakes using Kolmogorov-Arnold Networks ([doi.org/10.1021/acs.est.4c11113](https://doi.org/10.1021/acs.est.4c11113))
+
+## Important Note:
 This GUI is a general-purpose tool for predicting and forecasting Chlorophyll-a (Chl-a) concentrations. **Please note that this tool was NOT used to generate the results for our study**, although it contains the same models and is intended for general application.
 <p align="center">
   <img src="Test.png" alt="Test Stage" width="400" height="400">
